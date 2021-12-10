@@ -26,8 +26,7 @@ buildNumber.properties
 .factorypath
 .project
 .vscode/
-
-travis
-gitattributes
-editorconfig
-DS_Store
+.travis
+.gitattributes
+.editorconfig
+.DS_Store
